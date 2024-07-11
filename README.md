@@ -1,37 +1,18 @@
-# davisual
+# DaVisualizator
 
 #### 介绍
-数据可视化软件，可用于数据实时监控、解析、可视化。支持xls、xlsl、csv、pcapng、db等类型文件解析和展示。
-
-#### 软件架构
-软件架构说明
+基于PyQt6开发的数据可视化软件，可用于数据原文件解析、生成可视化。支持xls、xlsl、csv、pcapng等类型文件解析和展示。
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+目前发布版本均为打包好的二进制文件，直接双击应用图标运行。
 
-#### 使用说明
+#### 升级说明
+DaVisualizator有专门的升级器用于自动更新应用版本，在检测到更新时，会先检查应用所在目录是否有升级器，没有会先下载升级器，并会在下载完成后进入软件更新流程。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 功能
 
-#### 参与贡献
+1. 支持xls、xlsl、csv、pcapng文件生成可视化。pcapng为wireshark的抓包数据文件，是DaVisualizator专门支持的类型。支持将抓包文件中采样数据进行提取，并生成可视化图表。
+2. 更多有趣功能待进一步开发
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
