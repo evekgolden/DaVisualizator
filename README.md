@@ -1,5 +1,4 @@
 # DaVisualizator
-![](https://i.imgur.com/waxVImv.png)
 
 <p align="center">
   <img width="18%" align="center" src="https://img.cocodemo.site/img/216140_line_chart_icon (1).png" alt="logo">
