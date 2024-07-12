@@ -24,11 +24,9 @@
 #### 升级说明
 DaVisualizator有专门的升级器用于自动更新应用版本，在检测到更新时，会先检查应用所在目录是否有升级器，没有会先下载升级器，并会在下载完成后进入软件更新流程。
 
-#### 功能
-1. xls、xlsl、csv表格解析
-   
-2. pcapng数据解析
-3. db文件解析
+#### 使用说明
+参考[DaVisualizator WiKi](https://gitee.com/jujubo2020/DaVisualizator/wikis)
 
-#### 感谢
+#### 致谢
 感谢[QFluentWidget](https://qfluentwidgets.com/)
+
