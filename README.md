@@ -4,7 +4,7 @@
   <img width="18%" align="center" src="https://img.cocodemo.site/img/216140_line_chart_icon (1).png" alt="logo">
 </p>
   <h1 align="center">
-  A-Loader
+  DaVisualizator
 </h1>
 
 <p align="center">
