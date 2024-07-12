@@ -1,7 +1,24 @@
 # DaVisualizator
+![](https://i.imgur.com/waxVImv.png)
+
+<p align="center">
+  <img width="18%" align="center" src="https://img.cocodemo.site/img/216140_line_chart_icon (1).png" alt="logo">
+</p>
+  <h1 align="center">
+  A-Loader
+</h1>
+
+<p align="center">
+  基于PyQt6开发的数据可视化软件，可用于数据原文件解析、生成可视化。支持xls、xlsl、csv、pcapng等类型文件解析和展示。
+</p>
+
+![](https://i.imgur.com/waxVImv.png)
+
+
+![DaVisualizator介绍](https://github.com/user-attachments/assets/a287fbe6-54b3-4237-b9a6-d0d96859e44b)
+
 
 #### 介绍
-基于PyQt6开发的数据可视化软件，可用于数据原文件解析、生成可视化。支持xls、xlsl、csv、pcapng等类型文件解析和展示。
 
 
 #### 安装教程
