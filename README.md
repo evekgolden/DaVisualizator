@@ -1,7 +1,7 @@
 # DaVisualizator
 
 <p align="center">
-  <img width="18%" align="center" src="https://img.cocodemo.site/img/216140_line_chart_icon (1).png" alt="logo">
+  <img width="18%" align="center" src="https://img.cocodemo.site/img/app_logo.png" alt="logo">
 </p>
   <h1 align="center">
   DaVisualizator
